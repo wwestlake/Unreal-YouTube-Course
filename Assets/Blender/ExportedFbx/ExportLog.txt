@@ -1,12 +1,12 @@
 ...
 3 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
 
-[StaticMesh] -> "SM_Wall.fbx" exported in 0.015625 sec.
+[StaticMesh] -> "SM_Wall.fbx" exported in 0.046875 sec.
 E:\Videos\Unreal Course\Unreal-YouTube-Course\Assets\Blender\ExportedFbx\StaticMesh
 
-[StaticMesh] -> "SM_LeftdoorPanel.fbx" exported in 0.0 sec.
+[StaticMesh] -> "SM_LeftdoorPanel.fbx" exported in 0.03125 sec.
 E:\Videos\Unreal Course\Unreal-YouTube-Course\Assets\Blender\ExportedFbx\StaticMesh
 
-[StaticMesh] -> "SM_RightDoorPanel.fbx" exported in 0.015625 sec.
+[StaticMesh] -> "SM_RightDoorPanel.fbx" exported in 0.0 sec.
 E:\Videos\Unreal Course\Unreal-YouTube-Course\Assets\Blender\ExportedFbx\StaticMesh
 
