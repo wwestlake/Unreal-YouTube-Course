@@ -5,6 +5,8 @@ project files and assets developed during the couirse.
 
 The course is available on YouTube (A work in progress) https://www.youtube.com/playlist?list=PLuzHVjFScUXVM7mP4nQ5uclbZW09FUW_C
 
+Follow me on Twitter: @wwestlake
+
 That material for this course is on GitHub: https://github.com/wwestlake/Unreal-YouTube-Course
 
 Tools used in this course:
