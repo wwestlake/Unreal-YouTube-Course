@@ -1,7 +1,7 @@
 # Unreal Engine 4 YouTube Course
 
 This course is an introduction to Unreal Engine 4 and game development.  This repository contains the 
-project files and assets developed during the couirse.
+project files and assets developed during the course.
 
 The course is available on YouTube (A work in progress) https://www.youtube.com/playlist?list=PLuzHVjFScUXVM7mP4nQ5uclbZW09FUW_C
 
