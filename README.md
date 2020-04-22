@@ -7,6 +7,8 @@ The course is available on YouTube (A work in progress) https://www.youtube.com/
 
 Follow me on Twitter: @wwestlake
 
+Additional Information: https://billwestlake.blogspot.com/
+
 That material for this course is on GitHub: https://github.com/wwestlake/Unreal-YouTube-Course
 
 Tools used in this course:
